@@ -1,5 +1,7 @@
 # Asynchronous Implementation of the Travel Rule and Transitional Risks in Crypto-Asset Regulation
 
+GitHub repository: https://github.com/masaki-yamaguchi1/travel-rule-asynchronous-implementation
+
 This repository contains the Python simulation code used in the paper  
 **“Asynchronous Implementation of the Travel Rule and Transitional Risks in Crypto-Asset Regulation”**,  
 submitted to the *Journal of Financial Regulation*.
