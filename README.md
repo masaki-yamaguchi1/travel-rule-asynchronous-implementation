@@ -1,7 +1,8 @@
 # Asynchronous Implementation of the Travel Rule and Transitional Risks in Crypto-Asset Regulation
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18072588.svg)](https://doi.org/10.5281/zenodo.18072588)
-GitHub repository: https://github.com/masaki-yamaguchi1/travel-rule-asynchronous-implementation
+The simulation code underlying this paper is publicly available on GitHub:https://github.com/masaki-yamaguchi1/travel-rule-asynchronous-implementation
+
+An archived version corresponding to this study is available on Zenodo and can be accessed via the following DOI:　[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18072588.svg)](https://doi.org/10.5281/zenodo.18072588)
 
 This repository contains the Python simulation code used in the paper  
 **“Asynchronous Implementation of the Travel Rule and Transitional Risks in Crypto-Asset Regulation”**,  
@@ -87,7 +88,8 @@ and to make replication easier for reviewers and readers.
 
 No external datasets are used in this study.
 
-The simulation code underlying the paper is archived on Zenodo and can be accessed via the following DOI:
+The simulation code underlying this article is publicly available on GitHub and has been archived on Zenodo. 
+The archived version corresponding to this study can be accessed via the following DOI:
 https://doi.org/10.5281/zenodo.18072588
 
 ---
